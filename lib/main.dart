@@ -20,7 +20,7 @@ class _State extends State<Home> {
         centerTitle: true,
         backgroundColor: Colors.deepPurple,
         actions: <Widget>[
-          IconButton(
+          IconButton( icon: Icon(Icons.refresh),
 
           )
         ],
