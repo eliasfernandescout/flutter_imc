@@ -19,7 +19,11 @@ class _State extends State<Home> {
         title: Text("Calculadora IMC"),
         centerTitle: true,
         backgroundColor: Colors.deepPurple,
-        actions: <Widget>[],
+        actions: <Widget>[
+          IconButton(
+
+          )
+        ],
       ),
     );
   }
